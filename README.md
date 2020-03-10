@@ -1,2 +1,0 @@
-# tahointernet
-TAHO VPN
